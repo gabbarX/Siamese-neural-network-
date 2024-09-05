@@ -19,9 +19,6 @@ The model demonstrated the following performance on the test dataset:
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 - Thanks to the developers of XLM-RoBERTa for their powerful multilingual transformer model.
 - Special thanks to the open-source community for providing valuable resources and tools.
